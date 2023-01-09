@@ -25,9 +25,9 @@
 ### Day 1
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ⬜ | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://leetcode.com/playground/4XLytoSG) |
-| 2   | ⬜ | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](https://leetcode.com/playground/MZxoWTtb) |
-| 3   | ⬜ | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution](https://leetcode.com/playground/e4XJck6f) |
+| 1   | ✔️ | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://leetcode.com/playground/4XLytoSG) |
+| 2   | ✔️ | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](https://leetcode.com/playground/MZxoWTtb) |
+| 3   | ✔️ | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution](https://leetcode.com/playground/e4XJck6f) |
 
 <!-- Don't code below this line -->
 <br/>
