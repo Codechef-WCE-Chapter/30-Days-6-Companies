@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    int evalRPN(vector<string>& tokens)  {
+    int evalRPN(vector<string>& tokens) {
         stack<long long> st;
         for(auto &e : tokens)
          {
