@@ -1,6 +1,11 @@
+<img src="https://i.imgur.com/eqrAtGM.png" align="right"
+     alt="Logo" width="150" height="150">
+
 # 30-Days-6-Companies
 30 Days 6 Companies Challenge
 [Question's Doc](https://bit.ly/30Days6CompanyWCE)
+
+<br/>
 
 ![](https://img.shields.io/github/forks/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
 ![](https://img.shields.io/github/stars/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
@@ -12,7 +17,7 @@
 - ⬜ : Unsolved
 - ✔️ : Solved
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # Microsoft ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
 ## `Day 01 - 05`
