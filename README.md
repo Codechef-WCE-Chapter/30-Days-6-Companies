@@ -2,6 +2,14 @@
 30 Days 6 Companies Challenge
 [Question's Doc](https://bit.ly/30Days6CompanyWCE)
 
+<br/>
+
+<p align="center">
+  <img src="https://imgur.com/eqrAtGM">
+</p>
+
+<br/>
+
 ![](https://img.shields.io/github/forks/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
 ![](https://img.shields.io/github/stars/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
 ![](https://img.shields.io/github/watchers/Codechef-WCE-Chapter/30-Days-6-Companies.svg)
