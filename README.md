@@ -6,6 +6,8 @@
 - ⬜ : Unsolved
 - ✔️ : Solved
 
+---
+
 # Microsoft ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
 ## `Day 01 - 05`
 
