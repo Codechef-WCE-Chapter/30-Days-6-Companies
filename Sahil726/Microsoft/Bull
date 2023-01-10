@@ -1,0 +1,23 @@
+class Solution {
+public:
+    string getHint(string secret, string guess) {
+    map<char,int>mpp;
+    for(int i=0;i<secret.size();i++){
+        mpp[secret[i]]++;
+    }
+    int x=0,y=0;
+    for(int i=0;i<secret.size();i++){
+        if(secret[i]==guess[i]) x++;
+    }
+    for(int i=0;i<guess.size();i++){
+        if(mpp[guess[i]]){
+            y++;
+            mpp[guess[i]]--;
+        }
+    }
+    string ch1=to_string(x),ch2=to_string(y-x);
+    string ans="";
+    ans+=ch1;ans+='A';ans+=ch2;ans+='B';
+    return ans;
+    }
+};
