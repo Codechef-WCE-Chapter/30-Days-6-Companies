@@ -29,6 +29,14 @@
 | 2   | ✔️ | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](https://leetcode.com/playground/MZxoWTtb) |
 | 3   | ✔️ | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution](https://leetcode.com/playground/e4XJck6f) |
 
+
+### Day 2
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution]() |
+| 2   | ⬜ | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution]() |
+| 3   | ⬜ | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [Solution]() |
+
 <!-- Don't code below this line -->
 <br/>
 <br/>
