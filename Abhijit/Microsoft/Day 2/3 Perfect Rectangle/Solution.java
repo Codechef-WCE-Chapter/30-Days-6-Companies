@@ -6,11 +6,16 @@ class Solution {
         // and top-left points.
 
         // If two rectangles have to be merged,
-        // only 4 points should be present and all 
+        // only 4 points should be present and rest all 
         // should be cancelled.
-        // - One point is bottom right point of
-        // one rectangle then it should be bottom-left
-        // point of rectangle to be merged to its right
+        
+        // - For merging from right side, bottom right of one
+        // rectangle should be bottom left of other rectangle
+        // and top-right of one rectangle should be top-left of other.
+        
+        // - similarly for merging from the upper side,
+        // top left of one rectangle should be bottom left of other
+        // and top-right of one should be bottom-right of other.
 
 
         HashMap<Pair, Integer> map = new HashMap<>() ;
