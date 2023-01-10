@@ -1,0 +1,39 @@
+yasminmujawar425
+yasminmujawar425
+Jan 09, 2023 22:33
+C++
+Runtime0 ms
+Beats
+100%
+Memory6.3 MB
+Beats
+95.27%
+Click to check the distribution chart
+Notes
+Related Tags
+0/5
+
+class Solution {
+public:
+  void subsets(int k,int n,int start,vector<int> & temp ,vector<vector<int>>&result,int m,int s)
+   { 
+       if(n<0 ||k<0  || temp.size()>m)
+     return;
+     else if(n==0 && k==0 && temp.size()==m)
+     {
+         result.push_back(temp);
+         return;
+     }
+     for(int i=start;i<=9;i++){
+    temp.push_back(i);
+    subsets(k-1,n-i,i+1,temp,result,m,s);
+    temp.pop_back();
+     }}
+    vector<vector<int>> combinationSum3(int k, int n) {
+    vector<vector<int>>result;
+    vector<int>temp;
+    subsets(k,n,1,temp,result,k,n);
+    return result;
+    }
+
+};
