@@ -45,6 +45,13 @@
 | 2   | ✔️ | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Solution](https://leetcode.com/playground/3GSWdZqx) |
 | 3   | ✔️ | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Solution](https://leetcode.com/playground/YdQKvRw3) |
 
+### Day 4
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ✔️ | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution]() |
+| 2   | ✔️ | [Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Solution]() |
+| 3   | ✔️ | [Longest Happy Prefix]( https://leetcode.com/problems/longest-happy-prefix/) | [Solution]() |
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Don't code below this line -->
