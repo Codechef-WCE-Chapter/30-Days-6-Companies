@@ -33,9 +33,18 @@
 ### Day 2
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ⬜ | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution](https://leetcode.com/playground/4WoDEsLb) |
-| 2   | ⬜ | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://leetcode.com/playground/7oWnPjbX) |
-| 3   | ⬜ | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [Solution](https://leetcode.com/playground/SPSWabSV) |
+| 1   | ✔️ | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution](https://leetcode.com/playground/4WoDEsLb) |
+| 2   | ✔️ | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://leetcode.com/playground/7oWnPjbX) |
+| 3   | ✔️ | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [Solution](https://leetcode.com/playground/SPSWabSV) |
+
+
+### Day 3
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution]() |
+| 2   | ⬜ | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Solution]() |
+| 3   | ⬜ | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Solution]() |
+
 
 <!-- Don't code below this line -->
 <br/>
