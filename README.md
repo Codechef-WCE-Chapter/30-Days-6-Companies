@@ -33,9 +33,35 @@
 ### Day 2
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ⬜ | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution](https://leetcode.com/playground/4WoDEsLb) |
-| 2   | ⬜ | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://leetcode.com/playground/7oWnPjbX) |
-| 3   | ⬜ | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [Solution](https://leetcode.com/playground/SPSWabSV) |
+| 1   | ✔️ | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution](https://leetcode.com/playground/4WoDEsLb) |
+| 2   | ✔️ | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://leetcode.com/playground/7oWnPjbX) |
+| 3   | ✔️ | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | [Solution](https://leetcode.com/playground/SPSWabSV) |
+
+
+### Day 3
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ✔️ | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://leetcode.com/playground/PY2ha6gS) |
+| 2   | ✔️ | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Solution](https://leetcode.com/playground/3GSWdZqx) |
+| 3   | ✔️ | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Solution](https://leetcode.com/playground/YdQKvRw3) |
+
+### Day 4
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ✔️ | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](https://github.com/Codechef-WCE-Chapter/30-Days-6-Companies/blob/main/RAO.sh/Microsoft/Day%20IV/1%20Shortest%20Unsorted%20Continuous%20Subarray/ShortestUnsortedContinuousSubarray.cpp) |
+| 2   | ✔️ | [Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Solution](https://github.com/Codechef-WCE-Chapter/30-Days-6-Companies/blob/main/Abhijit/Microsoft/Day%204/2%20Number%20of%20Ways%20to%20Arrive%20at%20Destination/Solution.java) |
+| 3   | ✔️ | [Longest Happy Prefix]( https://leetcode.com/problems/longest-happy-prefix/) | [Solution](https://github.com/Codechef-WCE-Chapter/30-Days-6-Companies/blob/main/Abhijit/Microsoft/Day%204/3%20Longest%20Happy%20Prefix/Solution.java) |
+
+
+### Day 5
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Solution]() |
+| 2   | ⬜ | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [Solution]() |
+| 3   | ⬜ | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Solution]() |
+
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Don't code below this line -->
 <br/>
