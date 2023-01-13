@@ -48,9 +48,9 @@
 ### Day 4
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ⬜ | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution]() |
-| 2   | ⬜ | [Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Solution]() |
-| 3   | ⬜ | [Longest Happy Prefix]( https://leetcode.com/problems/longest-happy-prefix/) | [Solution]() |
+| 1   | ✔️ | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](https://github.com/Codechef-WCE-Chapter/30-Days-6-Companies/blob/main/RAO.sh/Microsoft/Day%20IV/1%20Shortest%20Unsorted%20Continuous%20Subarray/ShortestUnsortedContinuousSubarray.cpp) |
+| 2   | ✔️ | [Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Solution](https://github.com/Codechef-WCE-Chapter/30-Days-6-Companies/blob/main/Abhijit/Microsoft/Day%204/2%20Number%20of%20Ways%20to%20Arrive%20at%20Destination/Solution.java) |
+| 3   | ✔️ | [Longest Happy Prefix]( https://leetcode.com/problems/longest-happy-prefix/) | [Solution](https://github.com/Codechef-WCE-Chapter/30-Days-6-Companies/blob/main/Abhijit/Microsoft/Day%204/3%20Longest%20Happy%20Prefix/Solution.java) |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
