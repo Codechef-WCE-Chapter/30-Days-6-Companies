@@ -83,7 +83,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <details>
-<summary> <h1> Goldman </h1> <img src="https://logos-world.net/wp-content/uploads/2020/10/Goldman-Sachs-Logo.png" align="right" width="20%" alt="microsoft logo" /> </summary>
+<summary> <h1> Goldman Sachs </h1> <img src="https://logos-world.net/wp-content/uploads/2020/10/Goldman-Sachs-Logo.png" align="right" width="20%" alt="microsoft logo" /> </summary>
 
 ## `Day 06 - 10`
 
