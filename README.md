@@ -61,6 +61,14 @@
 | 3   | ✔️ | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Solution]() |
 
 
+### Day 6
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [Solution]() |
+| 2   | ⬜ | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution]() |
+| 3   | ⬜ | [Factor Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [Solution]() |
+
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Don't code below this line -->
