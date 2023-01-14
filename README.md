@@ -68,8 +68,10 @@
 </details>
 
 
-<details> <summary> <h2> Day 5 </h2> <img align="right" width="15%" src="https://img.shields.io/static/v1?label=Difficulty&message=Easy&color=yellow&style=for-the-badge">  </summary>
+<details> <summary> <h2> Day 5 </h2> </summary>
 
+![Difficulty Tag](https://img.shields.io/static/v1?label=Difficulty&message=Easy&color=yellow&style=for-the-badge)
+ 
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
 | 1   | ✔️ | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Solution]() |
