@@ -62,15 +62,10 @@
 
 
 ### Day 6
-
 | Problem No. | Check | Problem | Solution  |
-
 | :---: | :--------:  | :---------: | :---------: |
-
 | 1   | ⬜ | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [Solution]() |
-
 | 2   | ⬜ | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution]() |
-
 | 3   | ⬜ | [Factor Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [Solution]() |
 
 
