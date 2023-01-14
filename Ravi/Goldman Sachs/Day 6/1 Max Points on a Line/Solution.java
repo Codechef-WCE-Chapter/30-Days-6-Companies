@@ -1,3 +1,7 @@
+// We will simply calculate the slope of two points, then put it inside the map
+// We will start with considering one point, calculate slope of all other points with respect to this point and put it inside map
+// Then the maximum number of points with a particular slope with respect to this point will be our answer !!!
+
 class Solution {
     public int maxPoints(int[][] points) {
         int ans = 0;

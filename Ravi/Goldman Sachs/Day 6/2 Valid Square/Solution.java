@@ -1,3 +1,8 @@
+// We will simply calculate the distance between all pairs of points and push them into distance array
+// Then we will sort the distance array
+// Then first 4 points should represent 4 sides of square and next 2 points should represent 2 diagonals of square
+// Just check whether 4 sides and 2 diagonals are equal or not !!!
+
 class Solution {
     
     int getDis(int[] p1, int[] p2) {
