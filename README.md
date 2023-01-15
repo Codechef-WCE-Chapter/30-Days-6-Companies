@@ -99,6 +99,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 7 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Number Of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Solution]() |
+| 2   | ⬜ | [Split Array Into Consecutive Subsequence](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution]() |
+| 3   | ⬜ | [Minimum Consecutive Cards To Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
