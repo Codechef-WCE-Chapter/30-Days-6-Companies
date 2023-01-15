@@ -14,7 +14,6 @@ public:
             i++;
         
         }
-
        
     return (ans==INT_MAX)?-1:ans;
     }
