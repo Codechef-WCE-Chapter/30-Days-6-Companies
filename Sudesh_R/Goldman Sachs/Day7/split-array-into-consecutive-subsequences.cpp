@@ -1,27 +1,28 @@
-
 class Solution {
 public:
-    int minimumCardPickup(vector<int>& c) {
-        vector<int>v(1000005 , -1);
-        int mn = INT_MAX;
-        for(int i = 0;i<c.size() ;i++)
+    bool isPossible(vector<int>& nums) {
+    
+        map<int,int>m , m1;
+        for(auto it : nums){m[it]++;}
+        for(int i = 0;i< nums.size() ; i++)
         {
-            if(v[c[i]]!=-1)
+            if( m[nums[i]]==0){continue;}
+            m[nums[i]]--;
+            if(m1[nums[i]-1] >0)
             {
-                mn = min(mn , (i - v[c[i]]) +1);
-                v[c[i]] = i;
+                m1[nums[i]-1]--;
+                m1[nums[i]]++;
             }
-            else
+            else if(m[nums[i ]+1]  >0 && m[nums[i]+2] >0)
             {
-                v[c[i]] = i;
-            }
-        }
-        if(mn==INT_MAX)
-        {
-            return -1;
-        }
+                m[nums[i]+1]--;
+                m[nums[i]+2]--;
 
-        return mn;
+                m1[nums[i] + 2]++;
+            }
+            else{return false;}
+        }
+return true;
 
 
     }
