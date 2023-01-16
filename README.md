@@ -109,6 +109,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 8 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | [Solution]() |
+| 2   | ⬜ | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution]() |
+| 3   | ⬜ | [IPO](https://leetcode.com/problems/ipo/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
