@@ -123,9 +123,9 @@
 
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ✔️ | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution]() |
-| 2   | ✔️ | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Solution]() |
-| 3   | ✔️ | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution]() |
+| 1   | ⬜ | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution]() |
+| 2   | ⬜ | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Solution]() |
+| 3   | ⬜ | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution]() |
 
 </details>
 
