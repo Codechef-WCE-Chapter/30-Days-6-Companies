@@ -119,6 +119,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 9 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ✔️ | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution]() |
+| 2   | ✔️ | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Solution]() |
+| 3   | ✔️ | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
