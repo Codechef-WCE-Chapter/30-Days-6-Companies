@@ -93,9 +93,9 @@
 
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ⬜ | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [Solution]() |
-| 2   | ⬜ | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution]() |
-| 3   | ⬜ | [Factor Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [Solution]() |
+| 1   | ✔️ | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [Solution]() |
+| 2   | ✔️ | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution]() |
+| 3   | ✔️ | [Factor Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | [Solution]() |
 
 </details>
 
@@ -103,9 +103,9 @@
 
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ⬜ | [Number Of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Solution]() |
-| 2   | ⬜ | [Split Array Into Consecutive Subsequence](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution]() |
-| 3   | ⬜ | [Minimum Consecutive Cards To Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution]() |
+| 1   | ✔️ | [Number Of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Solution]() |
+| 2   | ✔️ | [Split Array Into Consecutive Subsequence](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution]() |
+| 3   | ✔️ | [Minimum Consecutive Cards To Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution]() |
 
 </details>
 
@@ -113,9 +113,19 @@
 
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ⬜ | [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | [Solution]() |
-| 2   | ⬜ | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution]() |
-| 3   | ⬜ | [IPO](https://leetcode.com/problems/ipo/) | [Solution]() |
+| 1   | ✔️ | [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | [Solution]() |
+| 2   | ✔️ | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution]() |
+| 3   | ✔️ | [IPO](https://leetcode.com/problems/ipo/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 9 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution]() |
+| 2   | ⬜ | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Solution]() |
+| 3   | ⬜ | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution]() |
 
 </details>
 
