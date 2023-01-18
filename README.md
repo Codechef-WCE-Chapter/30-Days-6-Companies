@@ -123,9 +123,19 @@
 
 | Problem No. | Check | Problem | Solution  |
 | :---: | :--------:  | :---------: | :---------: |
-| 1   | ⬜ | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution]() |
-| 2   | ⬜ | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Solution]() |
-| 3   | ⬜ | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution]() |
+| 1   | ✔️ | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution]() |
+| 2   | ✔️ | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Solution]() |
+| 3   | ✔️ | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 10 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Solution]() |
+| 2   | ⬜ | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [Solution]() |
+| 3   | ⬜ | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Solution]() |
 
 </details>
 
