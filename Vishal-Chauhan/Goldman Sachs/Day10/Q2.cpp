@@ -106,7 +106,7 @@ ll countNicePairs3(vector<int> &nums)
 }
 
 // meth4
-// ---------meth3-->most updated till meth3-->but got time exceed after 75 text case
+// ---------meth4-->most updated till meth4-->but got time exceed after 75 text case
 vector<int> reverse_of_nums(vector<int> arr)
 {
     vector<int> ans;
@@ -127,7 +127,7 @@ ll countNicePairs4(vector<int> &nums)
         if (mp.find(val - rev[i]) != mp.end())
         {
             int temp = (mp[val - rev[i]]);
-            cout << "temp:" << temp << endl;
+            // cout << "temp:" << temp << endl;
             ans = (ans + temp) % MOD;
             // cnt+=(m[nums[i]-v[i]])%M;
         }
