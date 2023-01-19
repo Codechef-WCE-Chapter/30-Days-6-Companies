@@ -54,7 +54,7 @@
 | 1   | ✔️ | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://leetcode.com/playground/PY2ha6gS) |
 | 2   | ✔️ | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Solution](https://leetcode.com/playground/3GSWdZqx) |
 | 3   | ✔️ | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Solution](https://leetcode.com/playground/YdQKvRw3) |
-     
+    
 </details>
 
 <details> <summary> <h2> Day 4 </h2> </summary>
@@ -85,7 +85,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <details>
-<summary> <h1> Goldman Sachs </h1> <img src="https://logos-world.net/wp-content/uploads/2020/10/Goldman-Sachs-Logo.png" align="right" width="20%" alt="microsoft logo" /> </summary>
+<summary> <h1> Goldman Sachs </h1> <img src="https://logos-world.net/wp-content/uploads/2020/10/Goldman-Sachs-Logo.png" align="right" width="12%" alt="microsoft logo" /> </summary>
 
 ## `Day 06 - 10`
 
@@ -136,6 +136,25 @@
 | 1   | ⬜ | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Solution]() |
 | 2   | ⬜ | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [Solution]() |
 | 3   | ⬜ | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Solution]() |
+
+</details>
+
+</details>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<details>
+<summary> <h1> Adobe </h1> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" align="right" width="15%" alt="microsoft logo" /> </summary>
+
+## `Day 11 - 15`
+ 
+<details> <summary> <h2> Day 11 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution]() |
+| 2   | ⬜ | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution]() |
+| 3   | ⬜ | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Solution]() |
 
 </details>
 
