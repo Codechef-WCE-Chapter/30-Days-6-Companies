@@ -141,6 +141,23 @@
 
 </details>
 
+<details>
+<summary> <h1> Adobe </h1> <img src="https://logos-world.net/wp-content/uploads/2020/10/Goldman-Sachs-Logo.png" align="right" width="20%" alt="microsoft logo" /> </summary>
+
+## `Day 11 - 15`
+
+<details> <summary> <h2> Day 11 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution]() |
+| 2   | ⬜ | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution]() |
+| 3   | ⬜ | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Solution]() |
+
+</details>
+
+</details>
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
