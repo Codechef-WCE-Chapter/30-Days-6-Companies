@@ -54,7 +54,7 @@
 | 1   | ✔️ | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://leetcode.com/playground/PY2ha6gS) |
 | 2   | ✔️ | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Solution](https://leetcode.com/playground/3GSWdZqx) |
 | 3   | ✔️ | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Solution](https://leetcode.com/playground/YdQKvRw3) |
-     
+    
 </details>
 
 <details> <summary> <h2> Day 4 </h2> </summary>
