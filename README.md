@@ -158,6 +158,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 12 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Magical String](https://leetcode.com/problems/magical-string/) | [Solution]() |
+| 2   | ⬜ | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution]() |
+| 3   | ⬜ | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
