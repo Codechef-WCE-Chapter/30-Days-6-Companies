@@ -158,6 +158,26 @@
 
 </details>
 
+<details> <summary> <h2> Day 12 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Magical String](https://leetcode.com/problems/magical-string/) | [Solution]() |
+| 2   | ⬜ | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution]() |
+| 3   | ⬜ | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 13 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution]() |
+| 2   | ⬜ | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution]() |
+| 3   | ⬜ | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
