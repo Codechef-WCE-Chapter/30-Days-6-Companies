@@ -178,6 +178,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 14 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | [Solution]() |
+| 2   | ⬜ | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [Solution]() |
+| 3   | ⬜ | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
