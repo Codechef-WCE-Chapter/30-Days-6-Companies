@@ -188,6 +188,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 15 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution]() |
+| 2   | ⬜ | [Number of people aware of a secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution]() |
+| 3   | ⬜ | [Query Kth Smallest Trimmed Numbder](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
