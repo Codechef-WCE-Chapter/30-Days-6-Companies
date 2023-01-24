@@ -188,6 +188,33 @@
 
 </details>
 
+<details> <summary> <h2> Day 15 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution]() |
+| 2   | ⬜ | [Number of people aware of a secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution]() |
+| 3   | ⬜ | [Query Kth Smallest Trimmed Numbder](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [Solution]() |
+
+</details>
+
+</details>
+
+<details>
+<summary> <h1> Flipkart </h1> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" align="right" width="15%" alt="microsoft logo" /> </summary>
+
+## `Day 16 - 21`
+
+<details> <summary> <h2> Day 16 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution]() |
+| 2   | ⬜ | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [Solution]() |
+| 3   | ⬜ | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
