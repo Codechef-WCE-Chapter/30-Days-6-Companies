@@ -215,6 +215,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 17 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution]() |
+| 2   | ⬜ | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [Solution]() |
+| 3   | ⬜ | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
