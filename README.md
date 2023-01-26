@@ -225,6 +225,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 18 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Solution]() |
+| 2   | ⬜ | [Closest Primes in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Solution]() |
+| 3   | ⬜ | [Top K frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
