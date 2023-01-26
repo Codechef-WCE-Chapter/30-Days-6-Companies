@@ -1,0 +1,70 @@
+int func[100001] = {0}; // Precomputed array
+
+// Counting in Our calculated String
+int count(string str, int n)
+{
+    int cnt = 0;
+    if (str.size() < n)
+        n = str.size();
+    for (int i = 0; i < n; i++)
+    {
+        if (str[i] == '1')
+            cnt++;
+        func[i + 1] = cnt; // Here we precomputing
+    }
+    return func[n];
+}
+// Approach is to find Given Magical String
+int Calculate(int n)
+{
+    string str = "122";
+    string cnt = "12";
+    bool one = false; // Declaring one bool variable to cheak what is Our next Charactor
+    int x = 2;        // if one(true) then there is possibility of '1' || '11' Else '2' || '22'
+    for (int i = 1; i <= 100000; i++)
+    {
+
+        if (one)
+        { // If last char in string is '2'
+            if (str[x] == '1')
+            {
+                cnt += '1';
+                str += '2';
+            } // CheakingChar we want to add in counterstring
+            else
+            {
+                cnt += '2';
+                str += "22";
+            } // Adding in Magical String
+        }
+        else
+        {
+            if (str[x] == '1')
+            {
+                cnt += "1";
+                str += "1";
+            } // Same as upper
+            else
+            {
+                cnt += "2";
+                str += "11";
+            }
+        }
+        x++;
+        if (one)
+            one = false; // Changing parity
+        else
+            one = true; // If last is one we added two now there is chances of one
+    }
+    return count(str, n); // Then we send string and n for calculating count of one
+}
+class Solution
+{
+public:
+    int magicalString(int n)
+    {
+        if (func[n] != 0)
+            return func[n];
+        return Calculate(n);
+    }
+};
