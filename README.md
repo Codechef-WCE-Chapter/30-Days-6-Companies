@@ -235,6 +235,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 19 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [Solution]() |
+| 2   | ⬜ | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [Solution]() |
+| 3   | ⬜ | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
