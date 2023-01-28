@@ -245,6 +245,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 20 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Maximum Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution]() |
+| 2   | ⬜ | [Customer Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution]() |
+| 3   | ⬜ | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
