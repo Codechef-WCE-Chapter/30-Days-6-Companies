@@ -201,7 +201,7 @@
 </details>
 
 <details>
-<summary> <h1> Flipkart </h1> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" align="right" width="15%" alt="microsoft logo" /> </summary>
+<summary> <h1> Flipkart </h1> <img src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo-768x432.png" align="right" width="15%" alt="microsoft logo" /> </summary>
 
 ## `Day 16 - 20`
 
