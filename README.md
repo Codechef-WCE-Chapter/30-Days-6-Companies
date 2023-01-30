@@ -262,6 +262,25 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<details>
+<summary> <h1> Google </h1> <img src="https://logos-world.net/wp-content/uploads/2020/09/Google-Logo-700x394.png" align="right" width="15%" alt="google logo" /> </summary>
+
+## `Day 21 - 25`
+
+<details> <summary> <h2> Day 21 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Solution]() |
+| 2   | ⬜ | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Solution]() |
+| 3   | ⬜ | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Solution]() |
+
+</details>
+
+</details>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 
 <!-- Don't code below this line -->
