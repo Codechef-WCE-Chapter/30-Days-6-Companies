@@ -200,10 +200,13 @@
 
 </details>
 
-<details>
-<summary> <h1> Flipkart </h1> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" align="right" width="15%" alt="microsoft logo" /> </summary>
 
-## `Day 16 - 21`
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<details>
+<summary> <h1> Flipkart </h1> <img src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo-768x432.png" align="right" width="15%" alt="microsoft logo" /> </summary>
+
+## `Day 16 - 20`
 
 <details> <summary> <h2> Day 16 </h2> </summary>
 
@@ -242,6 +245,35 @@
 | 1   | ⬜ | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [Solution]() |
 | 2   | ⬜ | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [Solution]() |
 | 3   | ⬜ | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 20 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Maximum Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution]() |
+| 2   | ⬜ | [Customer Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution]() |
+| 3   | ⬜ | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution]() |
+
+</details>
+
+</details>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<details>
+<summary> <h1> Google </h1> <img src="https://logos-world.net/wp-content/uploads/2020/09/Google-Logo-700x394.png" align="right" width="15%" alt="google logo" /> </summary>
+
+## `Day 21 - 25`
+
+<details> <summary> <h2> Day 21 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Solution]() |
+| 2   | ⬜ | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Solution]() |
+| 3   | ⬜ | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Solution]() |
 
 </details>
 
