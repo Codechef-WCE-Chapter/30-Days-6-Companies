@@ -277,6 +277,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 22 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Solution]() |
+| 2   | ⬜ | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Solution]() |
+| 3   | ⬜ | [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
