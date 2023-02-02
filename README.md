@@ -287,6 +287,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 23 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [Solution]() |
+| 2   | ⬜ | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Solution]() |
+| 3   | ⬜ | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
