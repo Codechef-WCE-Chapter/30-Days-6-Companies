@@ -297,6 +297,26 @@
 
 </details>
 
+<details> <summary> <h2> Day 24 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Solution]() |
+| 2   | ⬜ | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [Solution]() |
+| 3   | ⬜ | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 25 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Solution]() |
+| 2   | ⬜ | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [Solution]() |
+| 3   | ⬜ | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
