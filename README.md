@@ -319,6 +319,23 @@
 
 </details>
 
+<details>
+<summary> <h1> Google </h1> <img src="https://logos-world.net/wp-content/uploads/2020/09/Google-Logo-700x394.png" align="right" width="15%" alt="google logo" /> </summary>
+
+## `Day 26 - 30`
+
+<details> <summary> <h2> Day 26 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Solution]() |
+| 2   | ⬜ | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Solution]() |
+| 3   | ⬜ | [Split a String Into The Max Number Of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Solution]() |
+
+</details>
+
+</details>
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
