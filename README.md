@@ -334,6 +334,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 27 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [Solution]() |
+| 2   | ⬜ | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Solution]() |
+| 3   | ⬜ | [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
