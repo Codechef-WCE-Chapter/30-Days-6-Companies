@@ -320,7 +320,7 @@
 </details>
 
 <details>
-<summary> <h1> Amazon </h1> <img src="https://logos-world.net/wp-content/uploads/2020/09/Amazon-Logo-700x394.png" align="right" width="15%" alt="google logo" /> </summary>
+<summary> <h1> Amazon </h1> <img src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png" align="right" width="15%" alt="google logo" /> </summary>
 
 ## `Day 26 - 30`
 
