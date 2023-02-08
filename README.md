@@ -346,6 +346,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 28 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Solution]() |
+| 2   | ⬜ | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [Solution]() |
+| 3   | ⬜ | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
