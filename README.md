@@ -356,6 +356,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 29 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Number of matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution]() |
+| 2   | ⬜ | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [Solution]() |
+| 3   | ⬜ | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
