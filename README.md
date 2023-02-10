@@ -366,6 +366,16 @@
 
 </details>
 
+<details> <summary> <h2> Day 30 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution]() |
+| 2   | ⬜ | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [Solution]() |
+| 3   | ⬜ | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution]() |
+
+</details>
+
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
