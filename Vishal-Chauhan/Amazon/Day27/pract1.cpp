@@ -9,7 +9,7 @@ public:
     //     if(l1<0 || l2<0){
     //         return 0;
     //     }
-    //     else if(dp[l1+1][l2+1]>0)return dp[l1+1][l2+1];
+    //
     //     else if(s1[l1]==s2[l2]){
     //         // cout<<"gotted:"<<s1[l1]<<endl;
     //         return 1+cal(s1,s2,l1-1,l2-1,dp);
