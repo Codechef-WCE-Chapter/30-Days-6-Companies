@@ -8,7 +8,7 @@ class Triplet {
         s = b;
         t = c;
     }
-}
+} 
 
 class Solution {
     
